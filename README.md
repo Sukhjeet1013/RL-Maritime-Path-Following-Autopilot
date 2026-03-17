@@ -20,12 +20,12 @@ The trained agent navigates from **(10,10) → (90,80)** through **4 waypoints**
 
 ### Performance
 
-| Metric              | Result                 |
-| ------------------- | ---------------------- |
-| Goal rate           | **80%** (100 episodes) |
-| Collision rate      | **20%**                |
-| Collisions per goal | 0.25                   |
-| Training steps      | **6M + 2M fine-tune**  |
+| Metric              | Result                |
+|---------------------|-----------------------|
+| Goal rate           | **84%** (50 episodes) |
+| Collision rate      | **16%**               |
+| Collisions per goal | **0.19**              |
+| Training steps      | **6M + 2M fine-tune** |
 
 ---
 
